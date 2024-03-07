@@ -4,10 +4,13 @@
     background-color:#ff9999;
     font-family: Verdana, "DejaVu Sans", "sans-serif";
 }
-#two { 
+#exc { 
     color:#0000cc;
     font-size: 36px;
 }
 .multi {
     font-size: 24px;
+}
+#pass {
+    background-color: #00ff0d;
 }
