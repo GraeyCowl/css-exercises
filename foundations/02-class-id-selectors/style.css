@@ -1,10 +1,13 @@
 /* style.css */
 
-odd {
+.odd {
     background-color:#ff9999;
     font-family: Verdana, "DejaVu Sans", "sans-serif";
 }
 #two { 
     color:#0000cc;
     font-size: 36px;
+}
+.multi {
+    font-size: 24px;
 }
