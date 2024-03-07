@@ -1,5 +1,5 @@
 /* style.css */
-
+/* for ref */
 .avatar{
 
 }
@@ -12,7 +12,7 @@
 .distorted{
 
 }
-
+/* actual content */
 .avatar.proportioned{
     height: auto;
     width: 300px;
