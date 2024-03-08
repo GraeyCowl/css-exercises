@@ -1,6 +1,6 @@
 /* style.css */ 
 
-.container{
+.container .text {
     color: hsl(0, 100%, 50%);
     background-color: hsl(60, 100%, 50%);
     font-size: 20px;
