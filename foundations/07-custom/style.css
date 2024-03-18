@@ -2,8 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 .box {
-  display: block;
-  /* DEFAULT VALUE */
+  /* DEFAULT VALUE display: block; */
   font-size: 2rem;
   background-color: salmon;
   /* BOX MODEL */
