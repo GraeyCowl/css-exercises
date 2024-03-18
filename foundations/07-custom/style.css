@@ -1,5 +1,6 @@
 body {
-  /* currently empty */
+  color: rgb(25, 13, 189);
+  background-color: blueviolet;
 }
 *{/* UNIVERSAL MARGIN BYPASS */
   margin: 0;
