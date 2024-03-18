@@ -5,7 +5,7 @@ body {
   /* DEFAULT VALUE display: block; */
   font-size: 2rem;
   background-color: salmon;
-  width: 100px;
+  width: 300px;
   height: 100px;
   /* BOX MODEL */
 }
