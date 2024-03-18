@@ -1,8 +1,9 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  
 }
 *{/* UNIVERSAL MARGIN BYPASS */
   margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .box {
   /* BOX MODEL */
