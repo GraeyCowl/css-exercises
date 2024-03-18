@@ -4,8 +4,8 @@ This is a custom made excersise done after The Odin Porject CSS Foundations CSS 
 Created to play with the box (model)
 
 ## Desired Outcome
-Ongoing
-Not set outcome
+
+No set outcome, ongoin
 <!-- ![desired outcome](./desired-outcome.png) -->
 
 ### Self Check
