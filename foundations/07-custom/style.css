@@ -3,4 +3,6 @@ body {
 }
 .box {
   font-size: 2rem;
+  background-color: salmon;
+  /* BOX MODEL */
 }
