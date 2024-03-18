@@ -35,3 +35,13 @@ body {
 .edge{
   margin: 0;
 }
+
+.stan{
+  box-sizing: content-box;
+/* DEFAULT BOX MODEL SIZING */
+}
+
+.alt{
+  box-sizing: border-box;
+  /* ALT BOX MODEL */
+}
