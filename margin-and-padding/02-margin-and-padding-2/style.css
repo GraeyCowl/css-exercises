@@ -3,20 +3,18 @@ but also one with light blue bgc */
 body {
   background: #eee;
   font-family: sans-serif;
-  border-style:double;
 }
 
 .card {
   width: 400px;
-  background: #fff;
+  background: #a9dfdf;
+  /* ORIGINAL COLOR #fff */
   margin: 16px auto;
-  border-style:double;
   padding: 8px;
 }
 
 .title {
   background: #e3f4ff;
-  border-style:double;
   padding: 8px;
   font-size: 16px;
   margin-top: 0;
@@ -25,16 +23,14 @@ body {
 
 .content {
   background: #e3f4ff;
-  border-style:double;
+  margin-bottom: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  border-style:double;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  border-style:double;
 }
