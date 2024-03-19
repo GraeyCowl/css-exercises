@@ -1,5 +1,6 @@
 /* Mismatch in notes between blank white bgc des outcome,
-but also one with light blue bgc */
+but also one with light blue bgc,
+Maybe version mismatch from clone */
 body {
   background: #eee;
   font-family: sans-serif;
