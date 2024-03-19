@@ -17,6 +17,7 @@ body {
 .title {
   background: #e3f4ff;
   border-style:double;
+  padding: 8px;
 }
 
 .content {
