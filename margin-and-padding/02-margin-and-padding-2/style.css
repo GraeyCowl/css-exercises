@@ -3,27 +3,34 @@ but also one with light blue bgc */
 body {
   background: #eee;
   font-family: sans-serif;
+  border-style:double;
 }
 
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  border-style:double;
+
 }
 
 .title {
   background: #e3f4ff;
+  border-style:double;
 }
 
 .content {
   background: #e3f4ff;
+  border-style:double;
 }
 
 .button-container {
   background: #e3f4ff;
+  border-style:double;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  border-style:double;
 }
