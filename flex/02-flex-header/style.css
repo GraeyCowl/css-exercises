@@ -27,11 +27,6 @@ a {
   text-decoration: none;
 }
 
-.left-link {
-/* justify-content: space-around; */
-/* align-items: baseline; */
-}
-
-.right-links {
-  justify-content: end;
+ul {
+  display: flex;
 }
