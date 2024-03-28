@@ -53,10 +53,10 @@ ul {
 
 .norm {
   display: flex;
-  /* align-items: center; */
+  align-items:center;
 }
 
 .noti {
   display: flex;
-  /* align-items: center; */
+  align-items: center;
 }
