@@ -10,6 +10,8 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  align-items: center;
+  justify-content: space-between;
 }
 
 ul {
@@ -26,9 +28,10 @@ a {
 }
 
 .left-link {
-
+/* justify-content: space-around; */
+/* align-items: baseline; */
 }
 
 .right-links {
-  
+  justify-content: end;
 }
