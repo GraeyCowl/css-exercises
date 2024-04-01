@@ -39,7 +39,4 @@ a {
   color: inherit;
 }
 /* specific link types instead of uni
-a:link {}
-a:visited {}
-a:hover {}
-a:active {} */
+a:link {}, a:visited {}, a:hover {}, a:active {} */
