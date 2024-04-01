@@ -13,12 +13,12 @@ img {
   width: 600px;
 }
 
-/* html shows buttonS, css button */
-.button {
+button {
   font-family: Roboto, sans-serif;
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px 16px;
 }
 
 input {
@@ -75,8 +75,4 @@ a:link {}, a:visited {}, a:hover {}, a:active {} */
   display: flex;
   justify-content: space-between;
   padding: 16px;
-}
-
-.buttons {
-  padding: 8px 16px;
 }
