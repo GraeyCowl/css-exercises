@@ -32,9 +32,11 @@ input {
 ul {
 /* remove to create exception class instead of mass rule */
 /* .no-bullets*/
+  display: flex;
   list-style-type: none; /* Remove bullets */
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
+  gap: 16px;
 }
 
 a {
