@@ -42,13 +42,8 @@ ul {
 a {
   text-decoration: none;
   color: inherit; or /* #666 */
-}
-/* specific link types instead of uni
+} /* specific link types instead of uni
 a:link {}, a:visited {}, a:hover {}, a:active {} */
-
-.header {
-
-}
 
 .content {
   display: flex;
@@ -61,14 +56,6 @@ a:link {}, a:visited {}, a:hover {}, a:active {} */
 
 .footer {
   background: #eeeeee;
-}
-
-.left-links {
-
-}
-
-.right-links {
-
 }
 
 .header,
