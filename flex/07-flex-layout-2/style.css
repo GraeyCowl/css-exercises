@@ -38,3 +38,8 @@ body {
 .deck {
   flex-wrap: wrap;
 }
+
+.link {
+  display: flex;
+  flex: 1;
+}
