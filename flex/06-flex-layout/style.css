@@ -36,21 +36,10 @@ ul {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
-/* specific link types instead of uni */
-/* a:link {
-  text-decoration: none;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: none;
-}
-
-a:active {
-  text-decoration: none;
-} */
-
+/* specific link types instead of uni
+a:link {}
+a:visited {}
+a:hover {}
+a:active {} */
