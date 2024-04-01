@@ -52,8 +52,8 @@ a:link {}, a:visited {}, a:hover {}, a:active {} */
 }
 
 .footer {
-
-  /* justify-content: flex-end; */
+  background-color: #eeeeee;
+  /* STILL NEED CONTENT SPLIT */
 }
 
 .left-links {
