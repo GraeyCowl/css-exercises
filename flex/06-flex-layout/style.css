@@ -14,7 +14,7 @@ img {
 }
 
 /* html shows buttonS, css button */
-button {
+.button {
   font-family: Roboto, sans-serif;
   border: none;
   border-radius: 8px;
@@ -49,6 +49,8 @@ a:link {}, a:visited {}, a:hover {}, a:active {} */
 }
 
 .content {
+  display: flex;
+  flex-direction: column;
 
 }
 
@@ -70,4 +72,8 @@ a:link {}, a:visited {}, a:hover {}, a:active {} */
   display: flex;
   justify-content: space-between;
   padding: 16px;
+}
+
+.buttons {
+  padding: 8px 16px;
 }
