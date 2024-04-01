@@ -25,3 +25,11 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+ul {
+/* remove to create exception class instead of mass rule */
+/* .no-bullets*/
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
