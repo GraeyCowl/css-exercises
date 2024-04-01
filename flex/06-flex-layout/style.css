@@ -69,4 +69,5 @@ a:link {}, a:visited {}, a:hover {}, a:active {} */
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
