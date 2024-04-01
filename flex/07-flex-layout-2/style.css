@@ -37,6 +37,8 @@ body {
 
 .deck {
   flex-wrap: wrap;
+  padding: 32px;
+  display: flex;
 }
 
 .link {
