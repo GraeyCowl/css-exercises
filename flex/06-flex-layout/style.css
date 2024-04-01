@@ -63,3 +63,9 @@ a:link {}, a:visited {}, a:hover {}, a:active {} */
 .right-links {
 
 }
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
